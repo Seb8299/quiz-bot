@@ -1,7 +1,6 @@
 import discord
 import json
 import random
-import time
 
 from discord.ext import commands
 client = commands.Bot(command_prefix="/", hello_command=None)
